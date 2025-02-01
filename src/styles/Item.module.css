@@ -1,0 +1,22 @@
+.Item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.Item img {
+  width: 100%;
+}
+
+.ItemTitle {
+  margin-top: 3rem;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+.ItemPrice {
+  margin-top: 1.5rem;
+  font-family: "Roboto";
+  font-size: 0.9rem;
+  font-weight: bold;
+}

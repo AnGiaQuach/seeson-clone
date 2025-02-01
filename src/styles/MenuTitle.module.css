@@ -1,0 +1,36 @@
+.MenuTitle {
+  text-align: center;
+  position: relative;
+  color: #3e4140;
+}
+
+.CenterMenu {
+  width: 10rem;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+
+  position: absolute;
+  z-index: 10;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.Opt {
+  margin-top: 1rem;
+  width: auto;
+  list-style-type: none;
+  text-align: center;
+  color: black;
+  opacity: 0.6;
+}
+
+.CoverMenu {
+  width: 100vw;
+  height: 10rem;
+  position: absolute;
+  z-index: -1;
+  top: 100%;
+  background-color: aqua;
+}
