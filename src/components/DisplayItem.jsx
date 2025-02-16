@@ -15,6 +15,8 @@ function DisplayItem({ id }) {
         <div>
           {item.price} {item.currency}
         </div>
+
+        <div className={styles.Description}>{item.description}</div>
       </div>
     </div>
   );

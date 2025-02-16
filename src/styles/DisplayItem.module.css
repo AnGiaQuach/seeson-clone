@@ -2,8 +2,9 @@
   padding: 0 13.5rem;
   display: flex;
   justify-content: flex-start;
-  gap: 5rem;
+  gap: 7rem;
   margin: 0 auto;
+  margin-top: 5rem;
 }
 .Display img {
   width: 50%;
@@ -14,4 +15,16 @@
   flex-direction: column;
   gap: 0.5rem;
   font-weight: 100;
+
+  font-size: 1rem;
+  letter-spacing: 0.15rem;
+}
+.Description {
+  margin-top: 2rem;
+  font-family: "Roboto";
+  font-size: 0.9rem;
+  letter-spacing: 0;
+  color: rgba(0, 0, 0, 0.7);
+
+  text-align: start;
 }

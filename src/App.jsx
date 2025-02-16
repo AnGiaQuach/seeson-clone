@@ -7,7 +7,8 @@ import Product from "./pages/Product";
 function App() {
   return (
     <div className={styles.App}>
-      <Product></Product>
+      <Header></Header>
+      <GalleryOfImg></GalleryOfImg>
     </div>
   );
 }
