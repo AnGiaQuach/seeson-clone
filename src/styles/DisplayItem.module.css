@@ -2,7 +2,7 @@
   padding: 0 13.5rem;
   display: flex;
   justify-content: flex-start;
-  gap: 7rem;
+  gap: 11.3rem;
   margin: 0 auto;
   margin-top: 5rem;
 }
@@ -17,14 +17,15 @@
   font-weight: 100;
 
   font-size: 1rem;
-  letter-spacing: 0.15rem;
 }
 .Description {
   margin-top: 2rem;
-  font-family: "Roboto";
+  font-family: "Roboto Variable";
+  font-weight: normal;
   font-size: 0.9rem;
-  letter-spacing: 0;
-  color: rgba(0, 0, 0, 0.7);
+  word-spacing: 0.09rem;
+  letter-spacing: -0.01rem;
+  color: rgba(0, 0, 0, 0.5);
 
-  text-align: start;
+  text-align: left;
 }

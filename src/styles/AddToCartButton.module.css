@@ -1,0 +1,12 @@
+.Button {
+  height: 3rem;
+  width: 30rem;
+  padding: 0 1.2rem;
+  margin-top: 3rem;
+  border: none;
+  background-color: black;
+  color: white;
+
+  display: flex;
+  justify-content: space-between;
+}

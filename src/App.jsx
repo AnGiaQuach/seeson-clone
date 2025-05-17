@@ -6,10 +6,10 @@ import Product from "./pages/Product";
 
 function App() {
   return (
-    <div className={styles.App}>
+    <>
       <Header></Header>
       <GalleryOfImg></GalleryOfImg>
-    </div>
+    </>
   );
 }
 

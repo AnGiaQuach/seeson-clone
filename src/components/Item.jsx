@@ -1,6 +1,5 @@
 import styles from "../styles/Item.module.css";
 import { Link } from "react-router-dom";
-import "@fontsource/roboto/300.css";
 
 function Item({ id, name, price, currency, description, img }) {
   return (

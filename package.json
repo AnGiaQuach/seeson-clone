@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "@fontsource-variable/raleway": "^5.1.1",
-    "@fontsource/roboto": "^5.1.1",
+    "@fontsource-variable/roboto": "^5.2.5",
+    "@fontsource/roboto": "^5.2.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.3",
